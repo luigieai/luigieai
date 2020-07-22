@@ -1,16 +1,19 @@
-### Hi there 👋
+![top-actual.png](https://i.loli.net/2020/07/23/4AmGMceTnVoNaUi.png)
 
-<!--
-**luigieai/luigieai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/luigimarqs/"/> 
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
+">
+</center>
+Hello! I'm Luigi! 🍄
 
-Here are some ideas to get you started:
+I'm working as SysAdmin, i love to code and learn new technologies. I'm currently studying plataforms that follow devops culture, and i'm interested in cloud techonologies too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏙️ I'm from Brazil, currently living in São Paulo.
+* 💻 Javascript/Typescript is my favorite language at moment
+* 📚 As a programmer, i'm studying Flutter and as Sysadmin, i'm praticing Docker/Kubernetes
+
+
+![bottom.png](https://i.loli.net/2020/07/19/1zDkAijpWvwK2UO.png)
+
+---
