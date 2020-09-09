@@ -14,7 +14,7 @@ Hello! I'm Luigi! 🍄
 
 I'm working as a SysAdmin and I really enjoy coding and learning new technologies. I'm currently studying plataforms that follow devops culture, and i'm also interested in cloud technologies.
 
-<img align='right' width='250' src="https://media.tenor.com/images/eb693241e9b7e2e7413dad0449fc5e20/tenor.gif"/>
+<img align='right' width='250' src="https://thumbs.gfycat.com/WealthyCavernousHarlequinbug.webp"/>
 
 * 🏙️ I'm from Brazil, currently living in São Paulo.
 * 💻 Javascript/Typescript is my favourite language at moment
