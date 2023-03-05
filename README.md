@@ -12,14 +12,14 @@
 
 Hello! I'm Luigi! 🍄
 
-I'm working as a SysAdmin and I really enjoy coding and learning new technologies. I'm currently studying plataforms that follow devops culture, and i'm also interested in cloud technologies.
+I am a Platform Engineer at Pagseguro Pagbank, currently working with technologies such as Kafka, RabbitMQ, Sensedia, AWS, Kubernetes, Ansible, and many more!
 
 <img align='right' width='250' src="https://thumbs.gfycat.com/WealthyCavernousHarlequinbug.webp"/>
 
-* 🏙️ I'm from Brazil, currently living in São Paulo.
-* 💻 Javascript/Typescript is my favourite language at moment
-* 📚 As a programmer, I'm studying Flutter and as Sysadmin, I'm practicing Docker/Kubernetes
-* 🟩 My favourite color is green
-* 🍺 I really like drinking beer
+* 🏙️ I am from Brazil and currently based in São Paulo.
+* 💻 I work with Hybrid cloud, automations, IaC, and DevOps culture.
+* 📚 I am always studying Kafka and RabbitMQ and practicing Kubernetes a lot at my Homelab!
+* 🟩 My favorite color is green.
+* 🍺 I really enjoy drinking beer.
 
 ![bottom.png](https://i.loli.net/2020/07/19/1zDkAijpWvwK2UO.png)
